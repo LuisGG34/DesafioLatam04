@@ -1,0 +1,52 @@
+h1 {
+    background-color:#FFFFFF;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Centra horizontalmente */
+    font-family: "Roboco";
+    font-weight: medium;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Roboco";
+    color: #000000;
+    font-size: 16pt;
+}
+
+.logo {
+    width: 86pt;
+    height: 25pt;
+}
+
+.logo2 {
+    width: 82pt;
+    height: 24pt;
+}
+
+.colorfondoverde {
+    background-color: #28A745;
+}
+
+.largo_linea {
+    height: 200px;
+}
+
+.precio_alto {
+    font-family: "Roboco";
+    font-size: 16pt;
+    color: #707070;
+}
+
+.precio_bajo {
+    font-family: "Roboco";
+    font-size: 20pt;
+    color: #28A745;
+}
+
+.sin_subrayado {
+    text-decoration: none;
+}
